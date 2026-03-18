@@ -230,3 +230,90 @@ The following markers can be drawn at any point in the menstrual cycle without s
 | **Cortisol** | Any day, but note cycle day | Estrogen raises cortisol; early follicular gives lowest baseline |
 
 **Sources:** Compiled from cross-referencing all six extraction files for cycle-dependent vs. cycle-independent marker behavior. hormones-raw (Estrogen section, claims 2.14-2.15, 2.32; Progesterone section, claim 3.5); thyroid-raw (estrogen-thyroid interactions); cbc-organ-raw (electrolyte sections); lipid-metabolic-raw (metabolic marker sections)
+
+---
+
+## Enrichment Additions (2026-03-17)
+
+### Hepcidin-Hormonal Iron Regulation (New Section)
+
+The enrichment reveals a critical hormonal regulatory layer in iron metabolism that is especially important for interpreting women's iron panels.
+
+#### The Hepcidin Axis
+
+Hepcidin is the master regulator of intestinal iron absorption:
+- **Estrogen suppresses hepcidin** → increases iron absorption from food
+- **Progesterone stimulates hepcidin** → decreases iron absorption from food
+
+This means iron absorption rates change across the menstrual cycle, with pregnancy, and at menopause -- creating clinical implications not captured by standard iron panel interpretation.
+
+#### Key Numbers
+
+- Women absorb **3x as much iron** from an identical meal compared to men
+- During pregnancy (high estrogen): absorption increases to **9x** the male rate
+- Heavy menstruation loses only **30-40 mg of iron per month** (~1 mg/day) -- "practically impossible NOT to get from diet"
+
+> "While estrogen decreases blood formation, it simultaneously increases iron absorption from food -- women absorb 3x as much iron as men from a similar meal, and during pregnancy (high estrogen) 9x as much." -- newsletter: estrogen-iron-degenerative-aging-and-progesterone.md
+
+#### The Estrogen-Iron Paradox
+
+Estrogen simultaneously:
+1. **Suppresses bone marrow** → lower hemoglobin (appears "anemic")
+2. **Suppresses hepcidin** → increased iron absorption
+3. **Causes water retention** → dilutes blood (lower hematocrit)
+
+Result: a woman can appear anemic on standard labs while accumulating excess tissue iron. This is the core interpretive trap in women's iron panels.
+
+#### Cycle-Phase Iron Interpretation
+
+| Phase | Hepcidin Status | Iron Absorption | Clinical Implication |
+|-------|----------------|-----------------|---------------------|
+| **Follicular (days 1-14)** | Rising estrogen → hepcidin falling | Increasing absorption | Iron absorption accelerating toward ovulation |
+| **Luteal (days 15-28)** | Progesterone rising → hepcidin rising | Decreasing absorption | Natural brake on iron absorption |
+| **Menstruation** | Progesterone falls, estrogen low | Moderate | Iron lost through blood offsets absorption |
+| **Post-menopause** | Estrogen from aromatase only, no progesterone | Hepcidin brake lost | Accelerating tissue iron accumulation |
+| **Pregnancy** | Very high estrogen | 9x male rate | Maximum absorption to support fetal development |
+
+#### Clinical Implications
+
+1. **Menstruating women with low hemoglobin but adequate energy:** May not need iron supplementation. Their low hemoglobin may reflect estrogen's bone marrow suppression and blood dilution, not true iron deficiency. Tissue iron may be adequate or even excessive.
+
+2. **Post-menopausal women:** The loss of progesterone removes the hepcidin brake on iron absorption. Combined with cessation of menstrual iron loss, tissue iron accumulates rapidly. This convergence -- not estrogen loss -- partly explains the convergence of post-menopausal disease rates with men's rates. Monitor transferrin saturation; consider blood donation.
+
+3. **Iron supplementation during pregnancy:** Peat warned that iron supplements during pregnancy are associated with increased jaundice in newborns and may contribute to childhood cancer. Women who didn't take iron supplements had healthy babies without jaundice.
+
+4. **Post-menopause iron panel timing:** Draw iron panels at least 5 days after any bleeding. In post-menopausal women, the absence of the progesterone-hepcidin cycle means iron absorption is relatively constant, so timing within any month is less critical than in cycling women.
+
+**Sources:** cbc-organ-enrichment E5.1-E5.2; nutrients-diagnostics-enrichment E6.33-E6.37; iron-inflammation-enrichment (iron/estrogen sections)
+
+### Pregnancy Iron Caution (New Section)
+
+Peat's view on pregnancy iron supplementation was strongly cautionary:
+
+- Iron supplements during pregnancy have been associated with increased jaundice in newborns
+- Women who didn't take iron supplements during pregnancy had healthy babies without jaundice
+- Iron supplementation may contribute to increased childhood cancer
+- Given that pregnant women already absorb 9x more iron than men, supplementation may be unnecessary and harmful for most
+
+> "It has been observed that women who didn't take iron supplements during pregnancy have healthy babies that don't develop jaundice." -- newsletter: iron-cumulative-danger.md
+
+This contradicts the near-universal prenatal iron supplementation practice. The enrichment data supports interpreting "low" hemoglobin during pregnancy as a physiological adaptation (estrogen-driven blood dilution and marrow suppression), not necessarily a deficiency requiring iron loading.
+
+### Osteoporosis and the Prolactin-Estrogen Trap (New Section)
+
+Enrichment reveals a critical trap in osteoporosis treatment:
+
+**Prolactin contributes to osteoporosis** by mobilizing calcium from bones. Estrogen increases prolactin. Therefore, using estrogen to "prevent" osteoporosis may actually worsen it through the prolactin pathway.
+
+> "Since it is established that excess prolactin does contribute to osteoporosis in humans... the editor of the Yearbook of Endocrinology says 'Consider, if hyperprolactinemia leads to osteoporosis, and the administration of estrogens to postmenopausal women leads to hyperprolactinemia...'" -- newsletter: darkness-water-osteoporosis.md
+
+**Peat's recommended osteoporosis protocol for women:**
+- Thyroid optimization (primary)
+- Progesterone (reduces PTH, opposes estrogen, blocks aldosterone)
+- Vitamin A + bright light
+- Pregnenolone or progesterone + DHEA
+- Diet: protein + all salts (calcium, magnesium, sodium, potassium)
+- A bias toward magnesium rather than calcium would protect against many conditions of aging
+- Glass of milk at bedtime (suppresses nocturnal PTH surge that drives overnight bone loss)
+
+**Sources:** nutrients-diagnostics-enrichment E6.19, E6.56-E6.57

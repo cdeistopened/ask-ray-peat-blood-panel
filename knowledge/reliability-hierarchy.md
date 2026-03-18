@@ -218,3 +218,64 @@ Peat consistently prioritized functional indicators that reflect actual tissue m
 - **Target:** Ability to go 4-5 hours between meals without symptoms (shaking, irritability, brain fog, cold hands).
 - **Why:** Needing to eat every 2-3 hours indicates reliance on stress hormones to maintain blood sugar. Adequate liver glycogen, maintained by thyroid function and carbohydrate intake, should provide stable glucose for hours.
 - **Sources:** lipid-metabolic-raw (Glucose section, claims 1-12); hormones-raw (Cortisol section, claims 1.6-1.9)
+
+---
+
+## Enrichment Additions (2026-03-17)
+
+### New Tier 1 Additions
+
+#### Pulse Rate (Functional)
+- **What it measures:** Resting heart rate as a direct indicator of metabolic rate.
+- **Why Peat trusted it:** Peat personally targeted resting pulse "averaging a little over 90" for the last 35 years. An adrenaline-driven pulse stays variable and reactive; a metabolically-driven pulse from good thyroid function stays close to the same rate all day while sitting. The distinction between these two patterns is the critical diagnostic insight.
+- **Peat's target:** 85+ bpm resting for general health. He personally maintained >90 bpm. Therapeutic targets of 100+ bpm are safe for months when treating tumors, cataracts, and chronic problems.
+- **Key diagnostic:** Chronically elevated heart rate (150+ bpm) from hypothyroidism can normalize within days of starting thyroid supplementation, as thyroid reduces compensatory adrenaline (which can be 30-40x normal in hypothyroid states).
+- **Sources:** nutrients-diagnostics-enrichment E6.38, E6.39, E6.40
+
+#### Body Temperature (Functional)
+- **What it measures:** Core body temperature as a proxy for mitochondrial oxygen consumption and metabolic rate.
+- **Why Peat trusted it:** Average normal body temperature has dropped 1.06°F in men and 0.58°F in women since Fahrenheit's era, paralleling increases in serious diseases. The temperature rise during the day is the most important diagnostic measure, since nocturnal stress hormones can give a misleading impression in the morning.
+- **Peat's target:** Waking ~97.8°F, rising to 98.6°F after breakfast. The daytime rise confirms thyroid-driven metabolism.
+- **Key diagnostic:** A high rate of mitochondrial oxygen consumption produces heat; when temperature is lowered, reactive oxygen species increase because elimination decreases greatly. Low temperature is not merely a symptom of hypothyroidism -- it actively drives the degenerative cascade.
+- **Sources:** nutrients-diagnostics-enrichment E6.41-E6.45
+
+### New Tier 2 Additions
+
+#### Aldosterone
+- **What it measures:** Mineralocorticoid hormone that governs sodium-potassium-magnesium balance.
+- **Caveat:** Rarely tested but connects to multiple threads. Aldosterone rises during the night (part of the nocturnal catabolic cascade), inhibits uncoupling proteins (UCP), poisons mitochondria alongside PTH, and forms a vicious loop with serotonin. Low sodium intake drives aldosterone up, causing the very cardiovascular damage salt restriction claims to prevent.
+- **Companion needed:** Sodium (dietary), magnesium, potassium, cortisol, PTH.
+- **Sources:** hormones-enrichment E4.10, E4.11; metabolic threads 15, 19
+
+#### IL-18 (Interleukin-18)
+- **What it measures:** Pro-inflammatory cytokine linking TSH to liver damage and ferritin elevation.
+- **Caveat:** Not a standard lab test, but clinically important because TSH directly increases IL-18, which damages the liver and raises ferritin independent of iron stores. When ferritin is elevated but CRP is normal, IL-18 may explain the discrepancy. Elevated IL-18 is "another argument for keeping your TSH very low."
+- **Companion needed:** TSH, ferritin, liver enzymes (ALT/AST), CRP.
+- **Sources:** nutrients-diagnostics-enrichment E6.47; iron-inflammation-enrichment E3.1
+
+### New Tier 3 Addition
+
+#### Hepcidin
+- **Why context-dependent:** The master regulator of intestinal iron absorption, hormonally controlled. Estrogen suppresses hepcidin (increasing iron absorption), progesterone stimulates hepcidin (decreasing iron absorption). Not a standard lab test, but understanding the hepcidin axis is essential for interpreting iron panels in women -- the same hemoglobin and ferritin values mean different things depending on estrogen/progesterone status.
+- **Pair with:** Estrogen, progesterone, transferrin saturation, ferritin, cycle day in women.
+- **Sources:** cbc-organ-enrichment E5.2; metabolic thread 21
+
+### Updated Tier 4 Additions
+
+#### Saliva Hormone Tests (strengthened)
+- **Additional evidence:** Saliva tests are "not reliable for absolute values" -- only useful for seeing whether cortisol's daily pattern follows the normal rhythm. Progesterone in saliva is fundamentally questionable because progesterone is nearly water-insoluble. Urinary hormones "represent liver metabolism more than hormonal effects" since they are mostly glucuronidated or sulfated.
+- **Sources:** nutrients-diagnostics-enrichment E6.49, E6.50
+
+#### Hair Mineral Testing
+- **Why distrusted:** "Only rarely useful" (e.g., unsuspected heavy metal poisoning). Toenails are better than hair for mineral analysis because they absorb more from the body and less from environmental air and water exposure.
+- **Sources:** nutrients-diagnostics-enrichment E6.51
+
+### Enrichment Updates to Existing Entries
+
+**TSH (Tier 2):** Enrichment confirms Peat's target was specifically ~0.4 or below (not just "as close to zero as possible"). People with TSH below 0.4 were the freest from thyroid cancer. After starting T4, wait at least two weeks on stable dose before interpreting blood tests (T4 half-life is about two weeks). -- nutrients-diagnostics-enrichment E6.46, E6.48
+
+**Vitamin D (Tier 2):** Enrichment adds Peat's explicit blood level goal of 50 ng/mL -- "the point at which it lowers parathyroid hormone." He personally applied ~20,000 IU topically in winter rather than taking it orally. Low thyroid function increases vitamin D requirements. Persistent low 25-OH-D despite supplementation may indicate liver dysfunction preventing hydroxylation. -- nutrients-diagnostics-enrichment E6.1-E6.6
+
+**PTH (Tier 1):** Enrichment dramatically expands PTH's pathological scope. PTH causes insomnia, seizures, dementia, psychosis, cancer, heart disease, respiratory distress, osteoporosis, sarcopenia, histamine release, inflammation, and soft tissue calcification. PTH ends the hair growth cycle (morning hair loss from nocturnal PTH surges). A glass of milk at bedtime may protect hair as it protects bone. If vitamin D has been very low for a long time, parathyroid glands may have enlarged and take extended time to normalize. -- nutrients-diagnostics-enrichment E6.14-E6.21
+
+**Ferritin (Tier 3):** Enrichment confirms ferritin is distorted by TSH-driven IL-18 cascade (TSH → IL-18 → liver damage → elevated ferritin independent of iron). Hypothyroidism causes low temperature of extremities, slowing red cell formation in long bones, which may alter ferritin through an adaptive mechanism separate from inflammation. -- nutrients-diagnostics-enrichment E6.32; iron-inflammation-enrichment E3.1

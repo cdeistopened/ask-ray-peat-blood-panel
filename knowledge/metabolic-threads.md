@@ -2,9 +2,9 @@
 
 ## Summary
 
-**Total threads found:** 18
-**Total unique markers connected:** 47
-**Total extraction claims supporting threads:** 389 (of 691 total claims across 6 files)
+**Total threads found:** 21
+**Total unique markers connected:** 53
+**Total extraction claims supporting threads:** 432 (of 753 total claims across 6 enrichment files)
 
 The overarching structure is a spoke-and-hub model with thyroid function at the center. Nearly every degenerative process traces back to impaired oxidative metabolism (low thyroid), which creates a cascade of compensatory stress responses. The "Big Four" disruptors -- PUFA, estrogen, endotoxin, and serotonin -- form a self-reinforcing ring that each thread passes through at least once. The deepest insight: markers that conventional medicine treats as independent problems (high cholesterol, high iron, high cortisol, low testosterone) are downstream symptoms of the same upstream failure. Treating them separately with statins, chelators, cortisol-lowering drugs, and testosterone injections misses the root cause and often worsens the picture.
 
@@ -475,16 +475,16 @@ The following markers appear in the most threads, making them the highest-levera
 
 | Marker | Threads Present | Role |
 |--------|----------------|------|
-| Thyroid (T3/TSH) | 1, 4, 5, 6, 10, 11, 13, 15, 17, 18 | Master metabolic driver (10 threads) |
-| Estrogen | 2, 4, 7, 8, 12, 13, 14, 16, 17 | Master metabolic disruptor (9 threads) |
-| Progesterone | 2, 4, 5, 7, 9, 14, 15, 16, 17 | Master protective hormone (9 threads) |
-| Cortisol | 4, 5, 6, 11, 12, 15, 17 | Catabolic stress mediator (7 threads) |
+| Thyroid (T3/TSH) | 1, 4, 5, 6, 10, 11, 13, 15, 17, 18, 19, 20 | Master metabolic driver (12 threads) |
+| Estrogen | 2, 4, 7, 8, 12, 13, 14, 16, 17, 20, 21 | Master metabolic disruptor (11 threads) |
+| Progesterone | 2, 4, 5, 7, 9, 14, 15, 16, 17, 21 | Master protective hormone (10 threads) |
+| Cortisol | 4, 5, 6, 11, 12, 15, 17, 19 | Catabolic stress mediator (8 threads) |
 | Albumin | 3, 4, 12, 13 | Best single metabolic vitality marker (4 threads, but integrates all) |
 | CO2/Bicarbonate | 8, 10, 9 | Master metabolic regulator (3 threads) |
-| Iron | 2, 8, 9, 16, 18 | Progressive tissue toxin (5 threads) |
+| Iron | 2, 8, 9, 16, 18, 20, 21 | Progressive tissue toxin (7 threads) |
 | PUFA | 3, 8, 12, 17 | Universal inflammatory substrate (4 threads) |
 | Serotonin | 3, 4, 7, 12, 14, 17 | Misidentified stress mediator (6 threads) |
-| PTH | 9, 11, 15, 18 | Calcium/mineral gatekeeper (4 threads) |
+| PTH | 9, 11, 15, 18, 19 | Calcium/mineral gatekeeper (5 threads) |
 
 **The master thread:** Thyroid function is the hub of hubs. Optimizing thyroid function simultaneously:
 - Converts cholesterol to protective steroids (Thread 1)
@@ -496,3 +496,89 @@ The following markers appear in the most threads, making them the highest-levera
 - Supports pregnenolone synthesis (the steroid cascade origin) (Thread 1)
 
 This is why Peat returned to thyroid in virtually every interview: it is the single intervention with the broadest cross-thread impact.
+
+---
+
+## Thread 19: Nocturnal Catabolic Cascade
+
+**Markers:** Melatonin, aldosterone, cortisol, PTH, growth hormone, free fatty acids, prolactin, TSH, blood glucose, calcium, sodium, T3, bone density, hair loss
+
+**Core claim:** Darkness itself is a physiological stressor that triggers a cascade of catabolic hormones -- melatonin rises first, then aldosterone, cortisol, PTH, growth hormone, and prolactin -- causing progressive tissue destruction every night. Sleep reduces but does not eliminate this damage. Bedtime countermeasures (T3, calcium, salt, sugar/fat) can interrupt the cascade.
+
+**Causal chain:**
+1. Darkness triggers cortisol rise regardless of sleep or waking state -- hormones-enrichment E4.1 ("Cortisol begins to rise as soon as there is darkness, regardless of sleep or waking")
+2. Falling blood glucose is the specific signal for cortisol to rise; dreams manifest the mobilization response -- hormones-enrichment E4.2
+3. Aldosterone rises during the night (serotonin-aldosterone loop), inhibiting UCP and poisoning mitochondria -- hormones-enrichment E4.10, E4.11
+4. PTH rises nocturnally, dissolving bone and depositing calcium in soft tissue -- nutrients-diagnostics-enrichment E6.57
+5. Growth hormone rises (catabolic in adults), free fatty acids flood the bloodstream -- nutrients-diagnostics-enrichment E6.58
+6. Prolactin rises, contributing to bone loss and immune suppression -- nutrients-diagnostics-enrichment E6.58
+7. TSH rises at night, promoting inflammation via IL-18 -- nutrients-diagnostics-enrichment E6.47
+8. Bone loss occurs almost entirely during the night -- nutrients-diagnostics-enrichment E6.57 ("During the night, breakdown of protein is much faster than synthesis, and calcium is lost from the bones")
+9. Hair loss has a 24-hour cycle; morning shedding corresponds to nocturnal PTH surges -- nutrients-diagnostics-enrichment E6.20
+10. Mitochondria progressively deteriorate during darkness, producing excess superoxide -- nutrients-diagnostics-enrichment E6.58
+
+**Bedtime countermeasures (Peat's specific protocol):**
+- 5-10 mcg T3 at bedtime produces sleep within minutes -- nutrients-diagnostics-enrichment E6.59
+- Calcium and vitamin D sufficient to keep PTH low -- nutrients-diagnostics-enrichment E6.59
+- Salty snacks bring on sleep by suppressing aldosterone -- nutrients-diagnostics-enrichment E6.59
+- Ice cream (sugar/fat combination) prolongs absorption, maintaining blood glucose through the night -- nutrients-diagnostics-enrichment E6.59
+- Glass of milk at bedtime protects bone (same as its daytime effect on PTH) -- nutrients-diagnostics-enrichment E6.20
+
+**Evidence:** 18 claims across 3 enrichment sources (hormones-enrichment cortisol/aldosterone sections, nutrients-diagnostics-enrichment nocturnal/PTH/bone sections, cbc-organ-enrichment sleep sections)
+
+**Clinical implication:** A patient who wakes at 2-4 AM, loses copious hair in the morning, has declining bone density despite calcium supplementation, or whose inflammatory markers are disproportionately elevated should be assessed for nocturnal catabolic burden. The intervention is NOT sleeping pills but metabolic protection: bedtime T3, calcium, salt, and sugar/fat to prevent the entire nocturnal stress cascade from activating. This thread explains why "getting enough sleep" is insufficient -- the quality of the nocturnal metabolic state matters more than the hours.
+
+**Mainstream blind spot:** Sleep medicine focuses on sleep architecture and duration. Peat's framework identifies darkness itself as the pathological trigger, with sleep as partial (not complete) protection. Melatonin supplementation -- ubiquitously recommended -- may actually worsen the cascade by deepening the darkness-mediated catabolic state.
+
+---
+
+## Thread 20: Iron-Mortality Aging Curve
+
+**Markers:** Tissue iron, ferritin, transferrin saturation, hepcidin, estrogen, progesterone, age pigment/lipofuscin, all-cause mortality, cancer mortality, vitamin E, CO2, caloric restriction markers
+
+**Core claim:** Tissue iron accumulation follows a curve -- minimum at age 12, rising steadily to death -- that is "amazingly similar" to the curves for all-cause mortality and cancer mortality. No other biological variable has this shape. Caloric restriction extends life primarily because it restricts iron, not calories.
+
+**Causal chain:**
+1. Iron accumulates in tissues throughout life with no regulated excretory pathway -- nutrients-diagnostics-enrichment E6.35
+2. The iron accumulation curve minimum at age 12 matches the all-cause mortality minimum -- nutrients-diagnostics-enrichment E6.35 ("No other relationship in biology has this peculiar shape")
+3. Iron catalyzes Fenton chemistry: Fe²⁺ + H₂O₂ → hydroxyl radical → lipid peroxidation chain reaction -- iron-inflammation-enrichment (iron/PUFA cascade)
+4. Lipid peroxidation products accumulate as lipofuscin (age pigment) -- iron-inflammation-enrichment (age pigment section)
+5. CO2 stabilizes the transferrin-iron complex, preventing free iron release; hypothyroidism reduces CO2 -- iron-inflammation-enrichment (CO2 protective mechanisms)
+6. Caloric restriction extends life because it restricts iron intake, not total calories -- nutrients-diagnostics-enrichment E6.33 ("Iron content of food was identified as the major life-shortening factor")
+7. Estrogen paradox: estrogen suppresses hepcidin (increasing iron absorption) while progesterone stimulates hepcidin (decreasing absorption) -- cbc-organ-enrichment (hepcidin section, E5.2 mechanism)
+8. Women absorb 3x as much iron from food as men; during pregnancy 9x as much -- cbc-organ-enrichment E5.2
+9. Menstruation provides protection by removing ~30-40 mg iron per cycle; post-menopausal disease convergence reflects cessation of this iron loss -- iron-inflammation-enrichment (menstruation/iron claims)
+10. Vitamin E (100 mg/day) is the primary chain-breaking antioxidant, but must not be taken with iron-rich meals -- nutrients-diagnostics-enrichment E6.37
+
+**Evidence:** 12 claims across 4 enrichment sources (nutrients-diagnostics-enrichment iron/vitamin E sections, iron-inflammation-enrichment iron accumulation/mortality sections, cbc-organ-enrichment hemoglobin/hepcidin sections, lipid-metabolic-enrichment CO2/iron interaction claims)
+
+**Clinical implication:** Transferrin saturation (not ferritin) is the actionable target -- under 30%. Blood donation is a direct longevity intervention for men and post-menopausal women. Vitamin E supplementation should be timed away from iron-rich meals. Coffee chelates iron safely and should accompany iron-rich meals. The widespread practice of iron supplementation in the general population -- especially iron-fortified flour -- may be one of the most damaging public health interventions in history.
+
+**Mainstream blind spot:** Medicine treats iron deficiency as the primary concern and ferritin as the marker of adequacy. Peat's framework inverts this: iron accumulation is the primary age-related toxin, ferritin is an unreliable marker (acute phase reactant), and the 20th century's emphasis on preventing anemia through fortification has accelerated the very diseases it was supposed to prevent.
+
+---
+
+## Thread 21: Hepcidin-Hormonal Iron Regulation
+
+**Markers:** Hepcidin, estrogen, progesterone, iron absorption, ferritin, transferrin saturation, IL-18, TSH, liver function, hemoglobin
+
+**Core claim:** Iron absorption is hormonally regulated through hepcidin -- estrogen suppresses hepcidin (increasing iron absorption), progesterone stimulates hepcidin (decreasing iron absorption) -- creating a sex-specific iron regulation system that explains the estrogen-iron paradox: women absorb more iron despite having lower hemoglobin.
+
+**Causal chain:**
+1. Hepcidin is the master regulator of iron absorption from the gut -- cbc-organ-enrichment (iron regulation mechanism)
+2. Estrogen suppresses hepcidin, increasing intestinal iron absorption -- cbc-organ-enrichment E5.2
+3. Progesterone stimulates hepcidin, decreasing iron absorption -- cbc-organ-enrichment E5.2
+4. Women absorb 3x more iron from identical meals; pregnant women (high estrogen) absorb 9x more -- cbc-organ-enrichment E5.2
+5. Despite higher absorption, women have lower hemoglobin because estrogen simultaneously suppresses bone marrow -- cbc-organ-enrichment E5.1
+6. This creates a paradox: tissue iron overload can coexist with functional anemia (the estrogen-driven anemia with iron overload pattern)
+7. TSH increases IL-18, which damages the liver and raises ferritin independent of iron stores -- nutrients-diagnostics-enrichment E6.47
+8. Hypothyroidism confounds ferritin interpretation: low temperature slows red cell formation in extremity bones, altering ferritin in an adaptive mechanism -- iron-inflammation-enrichment E3.1
+9. At menopause, progesterone loss removes the hepcidin brake on iron absorption while estrogen (from peripheral aromatase) continues to suppress hepcidin -- connecting to Thread 20
+10. The hepcidin system explains why menstruating women can be simultaneously "anemic" on labs yet have adequate or excess tissue iron
+
+**Evidence:** 8 claims across 3 enrichment sources (cbc-organ-enrichment hemoglobin/iron regulation sections, iron-inflammation-enrichment ferritin/TSH/IL-18 sections, nutrients-diagnostics-enrichment iron/thyroid claims)
+
+**Clinical implication:** When interpreting iron status in women, the estrogen-hepcidin axis must be considered. A menstruating woman with low hemoglobin but adequate energy may not need iron supplementation -- her tissue iron may be fine or even excessive. Conversely, a post-menopausal woman with "normal" ferritin may have accelerating tissue iron accumulation because progesterone's hepcidin-stimulating brake has been lost. The standard practice of prescribing iron to women based on hemoglobin alone ignores the hormonal regulation of iron absorption and may cause harm.
+
+**Mainstream blind spot:** Iron metabolism is taught as a simple supply-demand equation (dietary iron in, blood loss out). Peat's framework reveals an entire hormonal regulatory layer through hepcidin that makes identical lab values mean different things depending on estrogen/progesterone status. The missing variable in every standard iron panel interpretation is the patient's hormonal context.
+

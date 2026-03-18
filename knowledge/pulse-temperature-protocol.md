@@ -193,3 +193,81 @@ Peat did not reject blood tests entirely. He identified specific situations wher
 > "Use temperature and heart rate to judge thyroid supplement dosage." -- wiki/conditions/hypothyroidism.md
 
 > "When temperature and pulse rise appropriately, energy is stable, digestion efficient, and body temperature comfortable, thyroid function is adequate regardless of lab values." -- wiki/mechanisms/thyroid-function.md
+
+---
+
+## Enrichment Additions (2026-03-17)
+
+### Peat's Personal Pulse Target (Specific Numbers)
+
+Peat personally targeted a resting pulse "averaging a little over 90" for the last 35 years. He recommended 85 bpm as a good average for the general population, with his personal practice running higher.
+
+For therapeutic purposes (treating tumors, cataracts, chronic problems), some people have held resting pulse at 100+ bpm for months without harmful effects. The safety margin is wide when the pulse is metabolically driven rather than adrenaline-driven.
+
+> "I think 85/minute resting is a good average. For the last 35 years I have tried to keep it averaging a little over 90." -- email: pulse.md
+
+### Distinguishing Metabolic vs. Adrenaline Pulse
+
+An adrenaline-driven pulse stays variable and reactive -- it spikes with standing, stress, or startle. A metabolically-driven pulse from good thyroid function stays close to the same rate all day while sitting. This stability is the key diagnostic marker.
+
+> "[Pulse rate driven by adrenaline?] If it's from your basic metabolism, it will stay close to that all day while sitting." -- email: pulse.md
+
+### Hypothyroid Adrenaline Compensation
+
+Hypothyroid adrenaline production can be 30-40 times higher than normal. This means chronically elevated heart rates (150+ bpm) can paradoxically indicate hypothyroidism, not hyperthyroidism. These patients normalize within days of starting thyroid supplementation, as the thyroid reduces the need for compensatory adrenaline.
+
+> "Occasionally, a person who has chronically had a heart rate of 150 beats per minute or higher, will have a much lower heart rate after using a thyroid supplement for a few days." -- newsletter: mary-shomon-interview.md
+
+> "The daily production of adrenalin is sometimes 30 or 40 times higher than normal in hypothyroidism." -- newsletter: mary-shomon-interview.md
+
+### Population Temperature Decline Data
+
+Average normal body temperature has dropped by 1.06°F in men and 0.58°F in women since Fahrenheit's era. This decline parallels increases in many serious diseases, but there is virtually no scientific curiosity about whether the trends are related.
+
+> "At present, the temperature of young men averages 1.06 degrees F lower, and that of young women, 0.58 degree F lower." -- newsletter: body-temperature-inflammation-and-aging.md
+
+### The Daytime Temperature Rise as Primary Diagnostic
+
+The temperature rise during the day is the most important diagnostic measure, since nocturnal stress hormones can give a misleading morning impression. A person may wake with artificially elevated temperature from cortisol/adrenaline, which falls after breakfast as stress hormones are replaced by metabolic drive.
+
+> "The temperature rise during the day is the most important thing, since nocturnal stress hormones can give a misleading impression in the morning. Resting pulse rate is another good indicator." -- email: thyroid.md
+
+### Low Temperature and Reactive Oxygen Species
+
+When temperature is lowered, reactive oxygen species (superoxide) increase -- mitochondrial production increases slightly, but elimination decreases greatly. This means low body temperature is not merely a symptom but an active driver of oxidative damage. The "rate of living" theory (that faster metabolism = faster aging) is backwards: higher metabolic rate produces more CO2 and fewer reactive oxygen species.
+
+> "When the body temperature is lowered, reactive oxygen species such as superoxide increase; mitochondrial production of superoxide increases slightly, elimination decreases greatly." -- newsletter: body-temperature-inflammation-and-aging.md
+
+### Nutritional Thermogenic Factors
+
+Substances and nutrients that support temperature include: sodium, calcium, vitamin D, carbohydrates (especially sugar), protein, thyroid hormone, and progesterone. Aspirin is also thermogenic (stimulates mitochondrial oxygen consumption) despite its anti-fever reputation. Acetaminophen (Tylenol) is hypothermic and should be avoided.
+
+> "Nutritional thermogenic factors include sodium, calcium, vitamin D, carbohydrates, especially sugar, and protein, which interact with our endogenous energy regulating factors, especially thyroid and progesterone." -- newsletter: body-temperature-inflammation-and-aging.md
+
+### Additional Functional Indicators from Enrichment
+
+**Finger-to-Mouth Temperature Differential:** Checking temperature of hands, feet, and comparing to oral temperature provides a rapid assessment of peripheral circulation. Cold extremities with warm core = adrenaline-driven vasoconstriction. The temperature of the extremities, combined with the water evaporation rate, are better indicators than initial pulse readings for judging thyroid effect.
+
+**Water Evaporation Rate:** A hypothyroid person evaporates less water per day than normal. This is measurable by weighing before and after a period of rest. Low evaporation = waterlogged, hypothyroid.
+
+### Nocturnal Monitoring Protocol
+
+Nocturnal metabolic monitoring is clinically important because darkness itself triggers a catabolic cascade (Thread 19 in metabolic-threads.md):
+
+1. **2-4 AM waking test:** If patient wakes and eats sugar + salt, return to sleep within minutes confirms nocturnal hypoglycemia
+2. **Morning hair loss:** Copious morning hair loss corresponds to nocturnal PTH surges
+3. **Morning temperature context:** Low morning temperature after good sleep = genuine hypothyroidism. High morning temperature after poor sleep = cortisol/adrenaline compensation (test will correct after eating)
+
+**Bedtime protocol for nocturnal protection:**
+- 5-10 mcg T3 at bedtime (produces sleep within minutes)
+- Glass of milk or calcium supplement (suppress nocturnal PTH)
+- Salty snack (suppress aldosterone)
+- Ice cream or sugar/fat combination (maintain blood glucose through the night)
+
+> "Calcium and vitamin D, sufficient to keep parathyroid hormone low, contribute to that process. Salty snacks are especially helpful for bringing on sleep... 5 or 10 mcg of the immediately active T3 at bedtime will usually produce sleep within a few minutes." -- newsletter: sleep-and-aging.md
+
+### High Altitude Thyroid Data
+
+In high altitude populations: TSH is reduced by more than 25%, T3 is 4.5x higher, and T4 is 3x higher. These populations show greater longevity and better health. This data provides a reference point for what "optimal" thyroid function looks like in a population not suppressed by sea-level environmental and dietary stressors.
+
+> "In one study (Alhazmi, et al., 2018), T3 was four and a half times higher in people living at a high altitude, T4 was about three times higher, and TSH was reduced by more than 25%." -- newsletter: body-temperature-inflammation-and-aging.md

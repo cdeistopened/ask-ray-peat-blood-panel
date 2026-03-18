@@ -238,3 +238,86 @@ Peat considered this data equal to or more important than blood work. Every bloo
 3. **Response to sugar:** If eating sugar (orange juice, honey in milk) produces immediate relief from anxiety or irritability, the person is in a cortisol/adrenaline-driven metabolic state.
 
 **Sources:** hormones-raw (Recommended Panel section; Adrenaline section, claims 10.3, 10.5; Cortisol section, claims 1.6-1.9; Aldosterone section, claims 9.1-9.2); thyroid-raw (TSH section, claims 1.2, 1.12, 1.17); iron-inflammation-raw (Endotoxin section, claims 30-41); nutrients-diagnostics-raw (Diagnostic Philosophy section); lipid-metabolic-raw (Glucose section)
+
+---
+
+## Enrichment Additions (2026-03-17)
+
+### Updated Core Panel Notes
+
+**TSH target refined:** Peat's specific target was ~0.4 or below (not just "as close to 0 as possible"). People with TSH below 0.4 were the freest from thyroid cancer. Wait at least 2 weeks on a stable T4 dose before drawing blood for interpretation.
+
+**Vitamin D target refined:** Explicit blood level goal was 50 ng/mL -- "the point at which it lowers parathyroid hormone." Supplementation strategy: 2,000 IU standard winter dose; some need 5,000 IU based on blood tests. 10,000 IU safe for a couple of months. Prefer increasing calcium and vitamin K while keeping vitamin D moderate unless blood levels are monitored. Peat personally applied ~20,000 IU topically rather than orally.
+
+**PTH scope expanded:** PTH causes insomnia, seizures, dementia, psychosis, cancer, heart disease, respiratory distress, osteoporosis, sarcopenia, histamine release, inflammation, and soft tissue calcification. PTH ends the hair growth cycle (nocturnal PTH surges drive morning hair loss). If vitamin D has been very low for a long time, parathyroid glands may have enlarged and take extended time to normalize even with generous supplementation.
+
+### New Symptom-Specific Additions
+
+### Bone Loss / Osteoporosis
+
+**Additional markers to add:**
+| Test | Why | Pattern to Look For |
+|------|-----|-------------------|
+| **PTH** | Master driver of bone dissolution | Elevated = active bone catabolism |
+| **Prolactin** | Mobilizes calcium from bones | Elevated = additional bone loss pathway |
+| **Vitamin D (25-OH)** | Low D → high PTH → bone loss | Below 50 ng/mL = PTH not suppressed |
+| **Aldosterone** | Nocturnal rise compounds bone loss | Check alongside sodium status |
+
+**Peat's interpretation framework:** Bone loss occurs almost entirely during the night due to nocturnal rises in PTH, cortisol, prolactin, and growth hormone. The breakdown of protein at night is much faster than synthesis, and calcium is lost from bones during sleep. Rational therapy includes thyroid, vitamin A, bright light, pregnenolone or progesterone+DHEA, with a diet rich in protein and all salts (calcium, magnesium, sodium, potassium). A glass of milk at bedtime has the same protective effect on bone as daytime calcium. Estrogen-based osteoporosis treatment may worsen bone loss through the prolactin pathway.
+
+**Sources:** nutrients-diagnostics-enrichment E6.56-E6.57; E6.19-E6.20
+
+### High Blood Pressure
+
+**Additional markers to add:**
+| Test | Why | Pattern to Look For |
+|------|-----|-------------------|
+| **PTH** | Deficiency of calcium or vitamin D raises PTH → raises BP | Elevated PTH with low calcium/D |
+| **TSH** | "High TSH is often the main factor in high blood pressure" | TSH > 2.0 with hypertension |
+| **Aldosterone** | Salt restriction raises aldosterone → raises BP | Elevated aldosterone, low sodium |
+| **Sodium (dietary assessment)** | Low sodium drives aldosterone | Salt craving as clinical indicator |
+
+**Peat's interpretation framework:** Salt restriction is the cornerstone of conventional hypertension treatment, but Peat argued this raises aldosterone, which causes cardiac fibrosis, magnesium depletion, and the very hypertension salt restriction claims to prevent. Deficiency of calcium or vitamin D increases PTH, which raises serum calcium and blood pressure. High TSH is often the main factor. Treatment: thyroid optimization, adequate calcium/vitamin D (suppress PTH), adequate salt (suppress aldosterone), progesterone (receptor-level aldosterone blockade).
+
+**Sources:** nutrients-diagnostics-enrichment E6.21; hormones-enrichment E4.10-E4.11; metabolic thread 15
+
+### Brain Fog / Cognitive Issues
+
+**Additional markers to add:**
+| Test | Why | Pattern to Look For |
+|------|-----|-------------------|
+| **Pregnenolone** | Brain's primary neurosteroid; 10x blood levels in brain | Low = impaired brain steroid synthesis |
+| **B1 (thiamine)** | Deficiency causes fog even with adequate thyroid | Trial of 10 mg B1 often diagnostic |
+| **PTH** | PTH causes dementia, seizures, psychosis | Elevated = direct neurotoxicity |
+| **Prolactin** | Chronic excess causes pituitary tumors → optic nerve pressure | >10 ng/mL = systemic stress |
+
+**Peat's interpretation framework:** Brain fog is most commonly a thyroid problem (impaired glucose oxidation in neurons), but B1 deficiency can cause identical symptoms. "A supplement of 10 mg B1 is often enough to improve focus and prevent fatigue." PTH directly causes dementia and seizures at chronically elevated levels. Pregnenolone is the brain's most concentrated neurosteroid (10x blood levels) and its supplementation (100 mg) provides the brain's most-needed precursor.
+
+**Sources:** nutrients-diagnostics-enrichment E6.55, E6.14; hormones-enrichment pregnenolone section
+
+### Nocturnal Symptoms (2-4 AM Waking, Night Sweats, Morning Hair Loss)
+
+**Additional markers to add:**
+| Test | Why | Pattern to Look For |
+|------|-----|-------------------|
+| **PTH** | Rises nocturnally; drives bone loss, hair loss, calcification | Draw morning fasting for peak nocturnal effect |
+| **Cortisol (AM)** | Nocturnal surge from darkness + low glucose | Elevated AM cortisol after poor sleep |
+| **Sodium (dietary)** | Low sodium → aldosterone → nocturnal magnesium loss | Salt craving, muscle cramps at night |
+| **Calcium (serum)** | Low calcium → PTH rise → nocturnal cascade | Low-normal with elevated PTH |
+
+**Peat's interpretation framework:** The nocturnal catabolic cascade (Thread 19) explains why seemingly unrelated symptoms cluster together: 2-4 AM waking (blood sugar crash → cortisol), morning hair loss (nocturnal PTH surge), night sweats (adrenaline), and declining bone density (nocturnal PTH + cortisol). The intervention is metabolic protection at bedtime: T3 (5-10 mcg), calcium/milk, salt, and sugar/fat combination. This is NOT a sleep problem -- it is a metabolic protection problem.
+
+**Sources:** nutrients-diagnostics-enrichment E6.20, E6.57-E6.59; hormones-enrichment E4.1-E4.2
+
+### Updated Panel Notes -- Hormone Target Values (Male, Age 35)
+
+From enrichment: for a 35-year-old male, Peat recommended cortisol no higher than the middle of the reference range, estrogen below the middle, and testosterone above the middle. A vitamin D supplement often helps improve the hormone balance.
+
+**Sources:** nutrients-diagnostics-enrichment E6.52
+
+### Additional Tests Peat Considered Unreliable
+
+| Test | Peat's Reasoning | Source |
+|------|------------------|--------|
+| **Urinary hormones** | "Represent liver metabolism more than hormonal effects" since hormones in urine are mostly glucuronidated or sulfated | nutrients-diagnostics-enrichment E6.50 |
+| **Hair mineral analysis** | "Only rarely useful" (e.g., unsuspected heavy metal poisoning). Toenails better than hair because they absorb more from body, less from environment | nutrients-diagnostics-enrichment E6.51 |
