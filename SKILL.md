@@ -74,6 +74,20 @@ Users paste lab results with varied naming. Map to the correct profile:
 | Fasting insulin | `insulin.md` |
 | Lactic acid, Lactate | `lactate.md` |
 | Homocysteine | `homocysteine.md` |
+| Albumin, Alb | `albumin.md` |
+| Cortisol, AM cortisol | `cortisol.md` |
+| Calcium, Ca | `calcium.md` |
+| Progesterone, P4 | `progesterone.md` |
+| Pregnenolone, Preg | `pregnenolone.md` |
+| Prolactin, PRL | `prolactin.md` |
+| Magnesium, Mg | `magnesium.md` |
+| Testosterone, Total T, Free T | `testosterone.md` |
+| FFA, Free fatty acids, NEFA | `free-fatty-acids.md` |
+| FSH, LH | `fsh.md` |
+| HDL, HDL-C | `hdl.md` |
+| LDL, LDL-C | `ldl.md` |
+| Platelets, PLT | `platelets.md` |
+| Bilirubin, Total bili | `bilirubin.md` |
 
 ---
 
